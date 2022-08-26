@@ -30,9 +30,9 @@
 
 
 <h3>📫 How to reach me:</h3>
-<p> You can reach out to me at <a href="https://www.linkedin.com/in/ayushi-gandhi-77a9b31b3/" >linkedin</a> 
+<p> You can reach out to me at <a href="https://www.linkedin.com/in/ayushi-gandhi-77a9b31b3/" >LinkedIn</a> 
 <br>
-You can ask me anything. I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍
+You can ask me anything. I am looking forward to absorb Knowledge🧠, Gain Experience🧐, Collaborate🤝 and Build Amazing Products💻 for the World🌍
 
 <br/>
 <p align="center"> 
